@@ -1,1 +1,29 @@
+p{
+  font-family: Arial; color: blue;
+}
+ul{
+  font-size: 36px;
+  padding: 15px;
+}
+ol{
+font-size: 24px;
+  padding: 15px;
+  text-transform: uppercase;
+}
+h1{ font-size: 36px;}
+   
+header{ text-align: center; margin-top: 5px;
+     }
+body{
+  font-size: 36px;
+  padding: 15px;
+}
+        
+footer{
+  margin-top: 50px;
+  background-color: red;
+}
+
+
+
 
